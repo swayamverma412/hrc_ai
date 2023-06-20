@@ -1,0 +1,46 @@
+.MuiTypography-root{
+    color: black;;
+}
+
+.modal-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+  
+.modal-content {
+    width: 400px;
+    padding: 20px;
+}
+
+/* modals.css */
+
+/* Center the dialog content */
+.DialogContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+  
+  /* Adjust the margin and padding of the rows */
+.mt-4{
+    margin-top: 10px;
+    padding: 10px;
+}
+  
+  /* Style the search and cancel buttons */
+.Button {
+    width: 50%;
+    margin: 10px;
+    border-color: black;
+}
+  
+  /* Add custom styles for the text fields */
+.CustomTextField {
+    width: 100%;
+}
+
+
+  

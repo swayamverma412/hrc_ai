@@ -1,0 +1,21 @@
+.d-flex  {
+    height: 40px;
+    background-color: #fff;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.d-flex span{
+    color:black;
+}
+  
+.d-flex a {
+    text-decoration: none;
+    margin-right: 5px;
+}
+  
+.d-flex a:hover {
+    text-decoration: underline;
+}
+  

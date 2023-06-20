@@ -1,0 +1,21 @@
+.topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 10px;
+}
+  
+.topbar .topbar__logo_one img {
+    width: 100px;
+    height: auto;
+    justify-content: flex-start;
+}
+  
+.topbar .topbar__logo_two img{
+    width: 100px;
+    height: auto;
+    justify-content: center;
+}
+
+  
